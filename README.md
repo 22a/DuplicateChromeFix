@@ -12,8 +12,8 @@ As the above [fix](http://kb.openstudioproject.com/content/fix-double-google-chr
 Clone repo and cd into it:
 
 ```sh
-git clone {{repolink}}
-cd swag
+git clone https://github.com/22a/DuplicateChromeFix.git
+cd DuplicateChromeFix
 ```
 Run script as sudo user:
 
